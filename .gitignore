@@ -1,0 +1,14 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+grass_gis_chatbot_env/
+grass_gis_chatbot_model/
+# Logs and results
+logs/
+results/
+
+# Gradio temp files
+.gradio/
